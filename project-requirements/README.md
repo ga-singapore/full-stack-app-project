@@ -102,6 +102,6 @@ If any item is marked "no" in this section, this section will be considered a fa
 Upon completion of your presentation, your instructional team will evaluate your project.
 
 - Your instructors will be using the above guidelines to determine whether or not the project passes all of the minimum requirements.
-- If your instructors determine that the project does not meet the minimum requirements, you may be provided the opportunity to address the deficiencies identified and resubmit the project. Please reach out to your student success specialist if you have questions.
+- If your instructors determine that the project does not meet the minimum requirements, you would have failed the unit and hence the course. Please reach out to your student success specialist if you have questions.
 - Within a week after your presentation, your instructors will provide you with feedback on your project.
 - If there is a specific section of code that you would like an instructor to provide additional feedback on, please ask!
