@@ -28,6 +28,7 @@ If more than two items are marked "no" in this section, this section will be con
 | 1.7 | The project has full CRUD functionality on both the back-end and front-end.                                                                                                                                                                                                                              |
 | 1.8 | The front-end application does not hold any secret keys. Public APIs that require secret keys must be accessed from the back-end application.                                                                                                                                                            |
 | 1.9 | (Optional) The project is deployed online so that the rest of the world can use it.                                                                                                                                                                                                                      |
+
 ### **Code Convention Requirements**
 If more than two items are marked "no" in this section, this section will be considered a failure. If two or fewer items are marked "no", it is considered passed. Your app must fulfil the requirements listed below.
 
@@ -85,6 +86,7 @@ If more than two items are marked "no" in this section, this section will be con
 |5.5|Technologies used: List the principal technologies used by your application, for example: Python, JavaScript, and any major frameworks or libraries.|
 |5.6|Next steps: Planned future enhancements (stretch goals).|
 |5.7|The back-end README file contains the name of the project and a link pointing to the front-end repository on GitHub for more details on the project.|
+
 ### **Presentation Requirements**
 If any item is marked "no" in this section, this section will be considered a failure. Your presentation must fulfil the below requirements.
 
