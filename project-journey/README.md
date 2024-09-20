@@ -14,13 +14,13 @@ Before you start planning, review the [project requirements](../project-requirem
 
 ## 1\. Project planning
 
-Project week starts with project planning. For more details and the specific requirements, see the [Full Stack App Project Deliverables](../project-deliverables/).
+Project week starts with project planning. For more details and the specific requirements, see the [Project Deliverables](../project-deliverables/).
 
 When you submit your project planning materials your proposal will either be approved, or you'll receive feedback and be asked to make adjustments before a final approval can be given.
 
 ## 2\. Create a GitHub repo
 
-Once your project proposal is approved, create the public GitHub repo that you'll use for the project. See the [Full Stack App Project Deliverables](../project-deliverables/) for more details.
+Once your project proposal is approved, create the public GitHub repo that you'll use for the project. See the [Project Deliverables](../project-deliverables/) for more details.
 
 ## 3\. Build the project
 
