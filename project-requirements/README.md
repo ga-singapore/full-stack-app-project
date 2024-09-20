@@ -17,6 +17,7 @@ On the front-end, you'll construct an application that uses AJAX to communicate 
 ### **Technical Requirements - MVP**
 If more than two items are marked "no" in this section, this section will be considered a failure. If two or fewer items are marked "no", it is considered passed. Your game must fulfil the requirements listed below.
 
+
 |     |                                                                                                                                                                                                                                                                                                          |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1.1 | A full-stack application (non-MERN).                                                                                                                                                                                                                                                                     |
@@ -28,6 +29,7 @@ If more than two items are marked "no" in this section, this section will be con
 | 1.7 | The project has full CRUD functionality on both the back-end and front-end.                                                                                                                                                                                                                              |
 | 1.8 | The front-end application does not hold any secret keys. Public APIs that require secret keys must be accessed from the back-end application.                                                                                                                                                            |
 | 1.9 | (Optional) The project is deployed online so that the rest of the world can use it.                                                                                                                                                                                                                      |
+
 
 ### **Code Convention Requirements**
 If more than two items are marked "no" in this section, this section will be considered a failure. If two or fewer items are marked "no", it is considered passed. Your app must fulfil the requirements listed below.
