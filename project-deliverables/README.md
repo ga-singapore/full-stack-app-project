@@ -18,7 +18,7 @@ Planning is vital to build anything more than the most trivial of applications; 
 
 ### Building your planning materials
 
-Use a public board (e.g. [Trello](https://trello.com/)) for your team's project planning work.
+Use a public board (e.g. [Trello](https://trello.com/)) for you project planning work.
 
 If you are using Trello, this [video](https://www.youtube.com/watch?v=l3F3l3psqXY) has some helpful tips to get started using Trello if you've never used it before. Check out this [Trello support article](https://support.atlassian.com/trello/docs/changing-the-visibility-of-a-board/) to make your planning materials publicly available.
 
@@ -54,13 +54,9 @@ After your project proposal has been approved, your team will need to designate 
 
 > 🚨 As a reminder, you should use the same front-end and back-end repos or keep all the repos you use for the entire duration of your project to meet the project requirements.
 
-## Deployed app link deliverable
+## (Optional) Deployed app link deliverable
 
 During project week, your team will deploy the project so that others are able to use it on the internet! The back-end and front-end applications will be deployed separately.
-
-Follow the [MEN Stack Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/men-stack-deployment/) to deploy your back-end MEN Stack application.
-
-Follow the [React Front-End Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/react-front-end-deployment/) to deploy your front-end React application.
 
 ## Submitting your deliverables
 
@@ -68,7 +64,7 @@ Follow the guidelines below to submit your team's deliverables for this project.
 
 ### Submitting your planning materials
 
-Your team will submit a single link to your **_publicly visible_** Trello board below in the following format:
+You will submit a single link to your **_publicly visible_** Trello board below in the following format:
 
 ```plaintext
 Project planning link: <link>
@@ -78,7 +74,7 @@ Replacing `<link>` (including the `<` and `>`) with a link to your project plann
 
 ### Submitting your GitHub repo links
 
-Your team will submit a single link to the main **_public_** GitHub repos that you are using for the front-end and back-end of your MERN Stack CRUD App Group Project below in the following format:
+You will submit a single link to the main **_public_** GitHub repos that you are using for the front-end and back-end of your MERN Stack CRUD App Group Project below in the following format:
 
 ```plaintext
 Front-end GitHub repo link: <link>
@@ -89,7 +85,7 @@ Replacing `<link>` (including the `<` and `>`) with a link to your front-end and
 
 ### (Optional) Submitting your deployed app link
 
-Deploy your project by following the guides above. Your team will submit a single link to your deployed front-end app below in the following format:
+Deploy your project by following the guides above. You will submit a single link to your deployed front-end app below in the following format:
 
 ```plaintext
 Deployed project link: <link>
