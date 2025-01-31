@@ -1,5 +1,8 @@
-# ![Full Stack App Project - Project Journey](./assets/hero.png)
-
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Full Stack App Project</span>
+  <span class="subhead"></span>
+</h1>
 ## About
 
 In this project, students will gain experience working across the full-stack, building both front-end and back-end applications. They will create an authenticated back-end API allowing for full CRUD. They'll also construct a front-end application capable of interacting with that API through AJAX requests.
@@ -9,9 +12,9 @@ In this project, students will gain experience working across the full-stack, bu
 This project requires an understanding of:
 
 - Constructing APIs using back-end application
-- Securing backend application APIs by utilizing JWTs.
+- Securing backend application APIs by utilising JWTs.
 - Interacting with a database from a back-end application to carry out full CRUD on related resources.
-- Constructing front-end applications capable of interacting with APIs that require JWT authorization to carry out full CRUD on related resources.
+- Constructing front-end applications capable of interacting with APIs that require JWT authorisation to carry out full CRUD on related resources.
 
 ## Content
 
@@ -23,4 +26,4 @@ This project requires an understanding of:
 
 [Project Deliverables](./project-deliverables/README.md)
 
-[Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
+[Project Requirements PDF](./project-requirements/assets/project-requirements.pdf

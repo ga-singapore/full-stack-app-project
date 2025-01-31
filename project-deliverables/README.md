@@ -1,5 +1,8 @@
-# ![Full Stack App Project - Project Deliverables](./assets/hero.png)
-
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Full Stack App Project</span>
+  <span class="subhead">Project Deliverables</span>
+</h1>
 ## Contents
 
 **Deliverable details**:
